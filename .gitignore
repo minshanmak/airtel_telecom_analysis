@@ -3,6 +3,9 @@ data/processed/
 *.db
 *.csv
 .airtel/
+.chart-data-3wXYdj/
+.chart-data-ufKoZh/
+.streamlit/
 __pycache__/
 .ipnyb_checkpoints/
 .DS_Store

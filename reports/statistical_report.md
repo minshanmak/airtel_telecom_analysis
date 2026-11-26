@@ -7,7 +7,7 @@ Significance level: α = 0.05. If p < 0.05, reject H₀; otherwise, fail to reje
 **Claim:** The two groups used the same amount of data before the offer.  
 **H₀:** Both groups have the same true average daily data before May.  
 **H₁:** The two averages differ.
-
+ 
 F = 1.1108, p = 3.673e-08 (variances differ).  
 Z = 0.5191, p = 0.6037.  
 **Decision:** Fail to reject H₀.  
